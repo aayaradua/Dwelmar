@@ -28,11 +28,3 @@
 - **Map Tiles / Layers:** OpenStreetMap, GeoJSON
 
 ---
-
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/aayaradua/Dwelmar.git
-cd dwelmar
